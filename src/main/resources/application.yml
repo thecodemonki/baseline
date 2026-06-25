@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: baseline
+
+# Sportradar API key: set SPORTRADAR_API_KEY env var — never commit secrets
